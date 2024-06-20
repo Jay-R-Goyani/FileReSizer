@@ -23,6 +23,10 @@
     - `FileReSizer.cpp`: Main file to run the program
 
 2. **Compile And Run**: 
-        Simply save this three files in one folder, Then execute FileReSizer.cpp file.
+        Now Execute FileReSizer.cpp file.
+  After that, you will see three options: compressing, decompressing, and exiting.
+  In the compressing and decompressing options, there are two additional choices: Huffman and Lempel-Ziv-Welch algorithms.
+  When compressing or decompressing files, you can specify the file path or (for same directory) name for the chosen option.
+   
     
     
