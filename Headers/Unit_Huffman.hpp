@@ -1,7 +1,3 @@
-//Date : 20-6-2024
-//Author : Jay_Goyani
-//Email : jaygoyani2004@gmail.com
-
 #include <bits/stdc++.h>
 
 using namespace std;
