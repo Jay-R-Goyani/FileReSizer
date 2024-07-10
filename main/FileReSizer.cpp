@@ -77,7 +77,7 @@ int main()
 
             if (Source_file_name == Destination_file_name)
             {
-                cout << "Please Enter Different Source and Destination Because Operation In Same File leads To the Loss Your Data" << endl;
+                cout << "Please Enter Different Source and Destination Because Operation In Same File leads To Data Loss" << endl;
                 continue;
             }
 
@@ -148,7 +148,7 @@ int main()
             cout << endl;
             if (Source_file_name == Destination_file_name)
             {
-                cout << "Please Enter Different Source and Destination Because Operation In Same File leads To the Loss Your Data" << endl;
+                cout << "Please Enter Different Source and Destination Because Operation In Same File leads To Data Loss" << endl;
                 continue;
             }
 
